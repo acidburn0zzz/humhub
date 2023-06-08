@@ -16,7 +16,7 @@
         "php": ">=7.0.0",
         "ext-zip": "*",
         "cebe/markdown": "1.0.2",
-        "firebase/php-jwt": "^5.0",
+        "firebase/php-jwt": "^6.0",
         "jbroadway/urlify": "^1.0",
         "kartik-v/yii2-widgets": "*",
         "mistic100/randomcolor": "^1.0",
